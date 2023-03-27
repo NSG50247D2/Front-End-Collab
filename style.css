@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*,::after,::before{
+box-sizing: border-box;
+}
+html{
+    font-size: 16px;
+}
+.head{
+    display: flex;
+    color:black;
+    background-color: #c15f5f;
+    height: 10vh;
+}
+.head a li{
+    font-size: 1.2em;
+    padding:1.5rem;
+    list-style: none;
+}
+.head a li:hover{
+    /* background-color: blanchedalmond; */
+    color:aquamarine;
+    font-size:1em;
+    border-radius: 20px;
+}
