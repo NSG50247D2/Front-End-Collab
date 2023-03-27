@@ -1,2 +1,2 @@
-# Front-End-Collab with Himanshu
- joshi and Divyansh 
+# Front-End-Collab with Himanshu and Divyansh
+
